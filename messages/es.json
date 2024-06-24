@@ -1,0 +1,264 @@
+{
+  "Home": {
+    "title": "Tecnología especializada que <spotlight>impulsa tu crecimiento</spotlight>",
+    "subtitle": "El sistema Quatrobus agiliza y optimiza todas tus operaciones diarias",
+    "main_cta": "Iniciar tu prueba gratuita",
+    "second_cta": "Contáctanos",
+    "growth": {
+      "title": "Creciendo juntos",
+      "subtitle": "Alianzas estratégicas para el desarrollo comercial del transporte terrestre de pasajeros"
+    },
+    "force": {
+      "title": "Amplía tu fuerza de ventas, potencia tu gestión administrativa y comercial, todo QuatroBus",
+      "text": "Quatrobus es el sistema de gestión más completo y eficiente del mercado; tiene más de 20 años de experiencia exitosa en la industria del software especializado para empresas de transporte de buses en Latinoamérica y Norteamérica"
+    },
+    "advantages": {
+      "0": {
+        "title": "Confiable",
+        "description": "Sistema estable que siempre está disponible para consultas y generación de reportes."
+      },
+      "1": {
+        "title": "Fácil y rápido",
+        "description": "Plataforma dinámica y de acceso sencillo que permite ver toda la información en tiempo real para lograr el desarrollo eficiente de varias operaciones."
+      },
+      "2": {
+        "title": "Óptimo",
+        "description": "Incrementa la productividad de todos los procesos de venta y de gestión dentro de tu empresa."
+      },
+      "3": {
+        "title": "Adaptable",
+        "description": "Sistema con gran capacidad de personalización para la solución de diferentes necesidades."
+      },
+      "title": "Ventajas de trabajar con el <spotlight>Sistema QuatroBus</spotlight>"
+    },
+    "how": {
+      "0": {
+        "title": "Digitalización del canal de ventas de boletos",
+        "text": "Acción importante que permite ampliar el canal de ventas y ofrecer mayor comodidad e inmediatez a los clientes finales."
+      },
+      "1": {
+        "title": "Gestión de reportes",
+        "text": "Consigue información actualizada y rápida sobre el progreso de las ventas, ocupaciones de asientos e ingresos generados."
+      },
+      "title": "¿Cómo funciona <spotlight>QuatroBus?</spotlight>",
+      "know_more": "Conocer más",
+      "know_all": "Conocer todos los módulos"
+    },
+    "work": {
+      "title": "Trabajar justos es la mejor opción para tu empresa. <spotlight>¡Empecemos!</spotlight>",
+      "experience": "Años de experiencia en el sector",
+      "clients": "Clientes satisfechos en Perú y USA",
+      "tickets": "Tickets vendidos por nuestros clientes"
+    },
+    "testimonials": {
+      "title": "Clientes transformando sus negocios",
+      "ocupation": {
+        "marketing": "Coordinador de Marketing",
+        "ceo": "Gerente General",
+        "legal": "Representante Legal",
+        "admin": "Administradora General"
+      },
+      "comments": {
+        "0": "Me siento contento con las iniciativas que tiene QuatroBus, el equipo de soporte brinda respuestas rápidas ante problemas o incidencias y contar con una account manager nos ha facilitado nuestros procesos día a día.",
+        "1": "El principal atributo del sistema es su rapidez.",
+        "2": "Simplifica el trabajo a la hora de vender proyectos.",
+        "3": "Facilidad de uso, muy rápido.",
+        "4": "Es rápido, actualiza de forma veloz.",
+        "5": "Mi experiencia con QuatroBus ha sido satisfactoria. Gracias al sistema de Software hemos optimizado tiempo y operaciones diarias, logrando un avance óptino en nuestras ventas y mejoras en nuesta administracipon como empresa.",
+        "6": "Dispuestos a solucionar los problemas.",
+        "7": "Todo se graba en el sistema de boletos y esta muy bien organizado.",
+        "8": "¡Quiero expresar mi más sincero agradecimiento a QuatroBus por el excelente servicio que me brindaron! Desde el momento en que contacté con su equipo, me senti completamente respaldada y bien atendida."
+      }
+    },
+    "cta": {
+      "title": "¡Solicita tu Demo gratis hoy!",
+      "text": {
+        "0": "Obtén en tiempo real el control y el panorama completo de tu empresa para agilizar procesos diarios, reducir costos operativos y atraer más clientes de manera efectiva.",
+        "1": "Te ayudamos a crecer para destacar en un mercado tan competitivo como el de transporte."
+      },
+      "button": "Iniciar prueba gratuita"
+    },
+    "wsp_link": "https://bit.ly/EdwinQuatroBus",
+    "monday_link": "https://wkf.ms/3DmqdBU"
+  },
+  "Metadata": {
+    "home": {
+      "title": "QuatroBus - Tecnología que impulsa crecimiento y éxito",
+      "description": "Estamos para ayudarte a simplificar y agilizar todas tus operaciones diarias. Transforma tu empresa de transporte y destaca ante tu competencia con nuestro Software Integrado."
+    },
+    "features": {
+      "title": "QuatroBus - Software integrado para empresas de transporte",
+      "description": "Deja atrás procesos manuales y optimiza tus operaciones. Administra tus terminales, horarios, rutas y boletos vendidos en tiempo real. Simplifica tu negocio hoy."
+    },
+    "demo": {
+      "title": "QuatroBus - Demo Gratis por 3 meses",
+      "description": "Prueba nuestro Software integrado durante tres meses. Y experimenta el incremento de tu productividad y agilidad en tus operaciones diarias."
+    },
+    "blog": {
+      "title": "Quatrobus - Blog",
+      "description": "Atentos que pronto revelaremos algo muy especial."
+    }
+  },
+  "Index": {
+    "cta": "Iniciar gratis",
+    "languages": {
+      "en": "Inglés",
+      "es": "Español",
+      "title": "Idiomas"
+    },
+    "links": {
+      "features": "Funcionalidades",
+      "home": "Inicio"
+    },
+    "copyright": "Todos los derechos reservados.",
+    "menu": "Menú",
+    "wsp_link": "https://bit.ly/EdwinQuatroBus",
+    "monday_link": "https://wkf.ms/3DmqdBU"
+  },
+  "Blog": {
+    "coming_soon": {
+      "title": "¡Muy Pronto!",
+      "subtitle": "Atentos que pronto revelaremos algo muy especial.",
+      "notify": "Notificarme",
+      "email": "Ingresa tu email aquí"
+    }
+  },
+  "Demo": {
+    "title": "¿Estas listo para iniciar <spotlight>tu crecimiento?</spotlight>",
+    "body": {
+      "title": "¡Tienes <spotlight>3 meses de prueba!</spotlight>",
+      "text": {
+        "0": "Estamos interesado en que usted pruebe nuestro servicio por tres meses sin ningun compromiso. En donde podrá apreciar el incremento de productividad y agilidad en sus procesos diarios.",
+        "1": "El tiempo estimado de configuracion del Demo es de tan solo 6 das hábiles."
+      }
+    },
+    "main_cta": "Iniciar tu prueba gratuita",
+    "cta": {
+      "title": "¡Descubre en acción nuestros módulos y funcionalidades!",
+      "text": {
+        "0": "Usa el demo gratuito que diseñamos para que experimentes, en tiempo real, el control total y la visión completa de tu empresa.",
+        "1": "Agiliza tus procesos diarios, reduce costos operativos y atrae más clientes de manera eficaz."
+      },
+      "button": "Iniciar prueba gratuita"
+    },
+    "wsp_link": "https://bit.ly/EdwinQuatroBus",
+    "monday_link": "https://wkf.ms/3DmqdBU"
+  },
+  "Features": {
+    "title": "¿Qué es el Sistema Web <spotlight>QuatroBus?</spotlight>",
+    "subtitle": "Es una herramienta digital completa e integral, alojada en la nube y diseñana para adaptarse a las necesidades de tus operaciones.",
+    "main_features": {
+      "0": {
+        "title": "Amplias funcionalidades",
+        "description": "Funcionalidades variadas y configurables según tus necesidades para operaciones diarias más rápidas y eficientes"
+      },
+      "1": {
+        "title": "Sin instalación",
+        "description": "Accede desde cualquier dispositivo con internet y Google Chrome. ¡Es simple y práctico!"
+      },
+      "2": {
+        "title": "Compatibilidad",
+        "description": "Plataforma dinámica y fácil de usar, compatible con cualquier dispositivo (móvil, tableta o computadora)"
+      }
+    },
+    "main_cta": "Iniciar tu prueba gratuita",
+    "features": {
+      "0": {
+        "title": "Gestión y venta de pasajes",
+        "subtitle": "Agilice sus procesos de venta de pasajes",
+        "benefits": {
+          "0": "Reserva y modifica múltiples pasajes",
+          "1": "Evita las largas colas con Venta Express en temporadas altas",
+          "2": "Facilita la disponibilidad de rutas y asientos en tiempo real"
+        },
+        "features": {
+          "0": "Funcional en punto de venta",
+          "1": "Boletos electrónicos enviados por correo",
+          "2": "Recordatorios de sus viajes por SMS"
+        }
+      },
+      "1": {
+        "title": "Gestión de carga y encomiendas",
+        "subtitle": "Simplifique el registro, control y manejo de carga",
+        "benefits": {
+          "0": "Simplifica el registro y pago de encomiendas",
+          "1": "Agiliza el proceso de embarque y desembarque",
+          "2": "Dale seguimiento a las encomiendas y sus estados de entrega"
+        },
+        "features": {
+          "0": "Funcional para la gestión de precios por tarifa, volumen, peso y más",
+          "1": "Genera manifiestos y guías de remisión electrónica",
+          "2": "Identificación de carga por QR, serie y correlativo"
+        }
+      },
+      "2": {
+        "title": "Gestión administrativa",
+        "subtitle": "Optimice la gestión de tu empresa en tiempo real",
+        "benefits": {
+          "0": "Administra todas tus oficinas y terminales",
+          "1": "Controla y gestiona tus procesos internos",
+          "2": "Ofrece programa de fidelización a tus clientes"
+        },
+        "features": {
+          "0": "Funcional para modificar croquis de buses, rutas y precios",
+          "1": "Crea usuarios con roles para tu equipo",
+          "2": "Ordena e integra documentos por números de serie y correlativos"
+        }
+      },
+      "3": {
+        "title": "Gestión de Reportes",
+        "subtitle": "Mejore su toma de decisiones con informes completos",
+        "benefits": {
+          "0": "Supervisa las ventas por usuario, oficina y tipo de viaje",
+          "1": "Facilita el proceso de cierre de cajas",
+          "2": "Analiza la ocupabilidad de asientos y los ingresos por ruta"
+        },
+        "features": {
+          "0": "Importa documentos declarados en facturación electrónica",
+          "1": "Crea manifiestos de pasajeros y paqueteria",
+          "2": "Acceso a consolidado de ventas"
+        }
+      },
+      "4": {
+        "title": "Gestión de Equipajes",
+        "subtitle": "Agilice el control de equipaje de principio a fin",
+        "benefits": {
+          "0": "Simplifica el registro y control del peso del equipaje",
+          "1": "Optimiza la gestión y el cobro por exceso de equipaje",
+          "2": "Minimiza el riesgo de extravío o pérdida de equipaje"
+        },
+        "features": {
+          "0": "Etiquetado para identificación y proceso de embarque y desembarque",
+          "1": "Sistema de seguimiento basado en códigos de barras"
+        }
+      },
+      "5": {
+        "title": "Facturación electrónica",
+        "subtitle": "Ahorra tiempo enviando los comprobantes de pago",
+        "benefits": {
+          "0": "Listado de todos los comprobantes emitidos por la empresa",
+          "1": "Fácil navegación de consulta y búsqueda",
+          "2": "Integra documentos provenientes de los diferentes módulos del sistema"
+        },
+        "features": {
+          "0": "Vínculo directo con portal de recaudación tributaria de su país",
+          "1": "Envío automático",
+          "2": "Reportes disponibles del módulo de facturación electrónica online"
+        }
+      },
+      "title": "Conoce nuestros <spotlight>6 Módulos</spotlight>",
+      "features": "Características",
+      "benefits": "Beneficios"
+    },
+    "cta": {
+      "title": "¡Solicita tu Demo gratis hoy!",
+      "text": {
+        "0": "¡Ya conoces los módulos y sus funcionalidades!",
+        "1": "Inicia el demo gratuito que hemos preparado para que experimentes en tiempo real el control y el panorama completo de tu empresa para agilizar procesos diarios, reducir costos operativos y atraer más clientes de manera efectiva."
+      },
+      "button": "Iniciar prueba gratuita"
+    },
+    "wsp_link": "https://bit.ly/EdwinQuatroBus",
+    "monday_link": "https://wkf.ms/3DmqdBU"
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "Metadata": {
+    "home": {
+      "title": "QuatroBus - Technology that drives growth and success",
+      "description": "We're here to help you simplify and streamline all your daily operations. Transform your transport company and stand out from your competition with our integrated software."
+    },
+    "features": {
+      "title": "QuatroBus - Integrated software for transportation companies",
+      "description": "Leave manual processes behind and optimize your operations. \nManage your terminals, schedules, routes and tickets sold in real time. \nSimplify your business today."
+    },
+    "demo": {
+      "title": "QuatroBus - Free Demo for 3 months",
+      "description": "Try our integrated Software for three months. \nAnd experience increased productivity and agility in your daily operations."
+    },
+    "blog": {
+      "title": "Quatrobus - Blog",
+      "description": "Pay attention, we will soon reveal something very special."
+    }
+  },
+  "Index": {
+    "cta": "Start free",
+    "languages": {
+      "en": "English",
+      "es": "Spanish",
+      "title": "Languages"
+    },
+    "links": {
+      "features": "Features",
+      "home": "Home"
+    },
+    "copyright": "All rights reserved.",
+    "menu": "Menu",
+    "wsp_link": "https://bit.ly/EdwinQuatroBusEN",
+    "monday_link": "https://wkf.ms/43s2kn2"
+  },
+  "Blog": {
+    "coming_soon": {
+      "title": "Coming soon!",
+      "subtitle": "Pay attention, we will soon reveal something very special.",
+      "notify": "Notify me",
+      "email": "Enter your email here"
+    }
+  },
+  "Demo": {
+    "title": "Are you ready to start <spotlight>your growth?</spotlight>",
+    "body": {
+      "title": "You have a <spotlight>3 month trial!</spotlight>",
+      "text": {
+        "0": "We are interested in you trying our service for three months without any commitment. \nWhere you can appreciate the increase in productivity and agility in your daily processes.",
+        "1": "The estimated Demo configuration time is only 6 business days."
+      }
+    },
+    "main_cta": "Start your free trial",
+    "cta": {
+      "title": "Discover our modules and functionalities in action!",
+      "text": {
+        "0": "Use the free demo we designed so you can experience, in real time, total control and complete vision of your company.",
+        "1": "Streamline your daily processes, reduce operating costs and attract more customers effectively."
+      },
+      "button": "Start free trial"
+    },
+    "wsp_link": "https://bit.ly/EdwinQuatroBusEN",
+    "monday_link": "https://wkf.ms/43s2kn2"
+  },
+  "Features": {
+    "title": "What is the <spotlight>QuatroBus Web System?</spotlight>",
+    "subtitle": "It is a complete and comprehensive digital tool, hosted in the cloud and designed to adapt to the needs of your operations.",
+    "main_features": {
+      "0": {
+        "title": "Extensive functionalities",
+        "description": "Varied and configurable functionalities according to your needs for faster and more efficient daily operations"
+      },
+      "1": {
+        "title": "No installation",
+        "description": "Access from any device with internet and Google Chrome. \nIt's simple and practical!"
+      },
+      "2": {
+        "title": "Compatibility",
+        "description": "Dynamic and easy-to-use platform, compatible with any device (mobile, tablet or computer)"
+      }
+    },
+    "main_cta": "Start your free trial",
+    "features": {
+      "0": {
+        "title": "Management and tickets sale",
+        "subtitle": "Streamline your ticket sales processes",
+        "benefits": {
+          "0": "Book and modify multiple tickets",
+          "1": "Avoid long lines with Express Sales in high seasons",
+          "2": "Facilitates the availability of routes and seats in real time"
+        },
+        "features": {
+          "0": "Functional at point of sale",
+          "1": "E-tickets sent by mail",
+          "2": "SMS travel reminders"
+        }
+      },
+      "1": {
+        "title": "Cargo and parcel management",
+        "subtitle": "Simplify registration, control and cargo management",
+        "benefits": {
+          "0": "Simplifies the registration and payment of parcels",
+          "1": "Streamlines the boarding and disembarkation process",
+          "2": "Track orders and their delivery statuses"
+        },
+        "features": {
+          "0": "Functional for price management by rate, volume, weight and more",
+          "1": "Generate manifests and electronic submission guides",
+          "2": "Cargo identification by QR, series and correlative"
+        }
+      },
+      "2": {
+        "title": "Administrative management",
+        "subtitle": "Optimize the management of your company in real time",
+        "benefits": {
+          "0": "Manage all your offices and terminals",
+          "1": "Control and manage your internal processes",
+          "2": "Offer a loyalty program to your customers"
+        },
+        "features": {
+          "0": "Functional to modify sketches of buses, routes and prices",
+          "1": "Create users with roles for your team",
+          "2": "Sort and integrate documents by serial and correlative numbers"
+        }
+      },
+      "3": {
+        "title": "Report Management",
+        "subtitle": "Improve your decision making with comprehensive reports",
+        "benefits": {
+          "0": "Monitor sales by user, office and trip type",
+          "1": "Facilitates the box closing process",
+          "2": "Analyze seat occupancy and revenue per route"
+        },
+        "features": {
+          "0": "Import documents declared in electronic billing",
+          "1": "Create passenger and parcel manifests",
+          "2": "Access to consolidated sales"
+        }
+      },
+      "4": {
+        "title": "Baggage Management",
+        "subtitle": "Streamline baggage screening from start to finish",
+        "benefits": {
+          "0": "Simplifies the registration and control of luggage weight",
+          "1": "Optimize management and charging for excess baggage",
+          "2": "Minimizes the risk of misplaced or lost luggage"
+        },
+        "features": {
+          "0": "Labeling for identification and boarding and disembarkation process",
+          "1": "Barcode based tracking system"
+        }
+      },
+      "5": {
+        "title": "Electronic Billing",
+        "subtitle": "Save time by sending proof of payment",
+        "benefits": {
+          "0": "List of all receipts issued by the company",
+          "1": "Easy query and search navigation",
+          "2": "Integrates documents from the different modules of the system"
+        },
+        "features": {
+          "0": "Direct link with your country's tax collection portal",
+          "1": "Auto Send",
+          "2": "Reports available from the online electronic billing module"
+        }
+      },
+      "title": "Get to know our <spotlight>6 Modules</spotlight>",
+      "features": "Features",
+      "benefits": "Benefits"
+    },
+    "cta": {
+      "title": "Request your free Demo today!",
+      "text": {
+        "0": "You already know the modules and their functionalities!",
+        "1": "Start the free demo that we have prepared so that you can experience the control and complete panorama of your company in real time to streamline daily processes, reduce operating costs and attract more customers effectively."
+      },
+      "button": "Start free trial"
+    },
+    "wsp_link": "https://bit.ly/EdwinQuatroBusEN",
+    "monday_link": "https://wkf.ms/43s2kn2"
+  },
+  "Home": {
+    "title": "Specialized technology that <spotlight>drives your growth</spotlight>",
+    "subtitle": "The Quatrobus system streamlines and optimizes all your daily operations",
+    "main_cta": "Start your free trial",
+    "second_cta": "Contact us",
+    "growth": {
+      "title": "Growing up together",
+      "subtitle": "Strategic alliances for the commercial development of land passenger transportation"
+    },
+    "force": {
+      "title": "Expand your sales force, enhance your administrative and commercial management, all QuatroBus",
+      "text": "Quatrobus is the most complete and efficient management system on the market; \nhas more than 20 years of successful experience in the specialized software industry for bus transportation companies in Latin America and North America"
+    },
+    "advantages": {
+      "0": {
+        "title": "Reliable",
+        "description": "Stable system that is always available for queries and report generation."
+      },
+      "1": {
+        "title": "Fast and easy",
+        "description": "Dynamic and easily accessible platform that allows you to see all the information in real time to achieve the efficient development of various operations."
+      },
+      "2": {
+        "title": "Optimum",
+        "description": "Increase the productivity of all sales and management processes within your company."
+      },
+      "3": {
+        "title": "Adaptable",
+        "description": "System with great customization capacity to solve different needs."
+      },
+      "title": "Advantages of working with the <spotlight>QuatroBus System</spotlight>"
+    },
+    "how": {
+      "0": {
+        "title": "Digitization of the ticket sales channel",
+        "text": "Important action that allows expanding the sales channel and offering greater convenience and immediacy to end customers."
+      },
+      "1": {
+        "title": "Report management",
+        "text": "Get up-to-date and fast information on sales progress, seat occupancy and revenue generated."
+      },
+      "title": "How does <spotlight>QuatroBus work?</spotlight>",
+      "know_more": "Learn more",
+      "know_all": "Know all the modules"
+    },
+    "work": {
+      "title": "Working fairly is the best option for your company. \n<spotlight>Let's get started!</spotlight>",
+      "experience": "Years of experience in the sector",
+      "clients": "Satisfied clients in Peru and the USA",
+      "tickets": "Tickets sold by our clients"
+    },
+    "testimonials": {
+      "title": "Clients transforming their businesses",
+      "ocupation": {
+        "marketing": "Marketing coordinator",
+        "ceo": "General manager",
+        "legal": "Legal representative",
+        "admin": "General manager"
+      },
+      "comments": {
+        "0": "I am happy with the initiatives that QuatroBus has, the support team provides quick responses to problems or incidents and having an account manager has made our processes easier on a day-to-day basis.",
+        "1": "The main attribute of the system is its speed.",
+        "2": "Simplifies work when selling projects.",
+        "3": "Ease of use, very fast.",
+        "4": "It's fast, it updates quickly.",
+        "5": "My experience with QuatroBus has been satisfactory. \nThanks to the Software system we have optimized time and daily operations, achieving optimal progress in our sales and improvements in our administration as a company.",
+        "6": "Willing to solve problems.",
+        "7": "Everything is recorded in the ticket system and is very well organized.",
+        "8": "I want to express my sincere thanks to QuatroBus for the excellent service they provided me! \nFrom the moment I contacted their team, I felt completely supported and well cared for."
+      }
+    },
+    "cta": {
+      "title": "Request your free Demo today!",
+      "text": {
+        "0": "Obtain real-time control and a complete overview of your company to streamline daily processes, reduce operating costs and attract more customers effectively.",
+        "1": "We help you grow to stand out in a market as competitive as transportation."
+      },
+      "button": "Start free trial"
+    },
+    "wsp_link": "https://bit.ly/EdwinQuatroBusEN",
+    "monday_link": "https://wkf.ms/43s2kn2"
+  }
+}
